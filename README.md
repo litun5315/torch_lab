@@ -6,3 +6,5 @@ Introduction: Useful Pytorch code collected by teng.
 
 - MaxChannelPool
 > channel-wise Max Pooling
+- flip
+> tensor flip function
